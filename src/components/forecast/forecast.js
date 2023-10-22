@@ -28,7 +28,6 @@ const Forecast = ({ data }) => {
       <label className="title">Weekly Forecast</label>
       <br/>
       <Accordion allowZeroExpanded>
-        {/* {data.list.slice(0, 7).map((item, idx) => ( */}
         {data.list.slice(0, 7).map((item, idx) => (
           <AccordionItem key={idx}>
             <AccordionItemHeading>
