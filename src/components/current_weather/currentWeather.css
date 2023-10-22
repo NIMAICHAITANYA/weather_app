@@ -1,3 +1,14 @@
+.deatils .parameter-label{
+    text-align: left;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.details .parameter-value{
+    text-align: right;
+    font-weight: 12px;
+}
+
 .weather{
     width: 350px;
     border-radius: 6px;
@@ -15,7 +26,7 @@
 }
 
 .weather .top .city{
-    ont-size: 18px;
+    font-size: 18px;
     font-weight: 600;
     line-height: 1;
     margin: 0;
@@ -52,16 +63,6 @@
     justify-content: space-between; 
 }
 
-.deatils .parameter-label{
-    text-align: left;
-    font-size: 12px;
-    font-weight: 400;
-}
-
-.details .parameter-value{
-    text-align: right;
-    font-weight: 12px;
-}
 
 @media (width < 400px){
     .weather{
