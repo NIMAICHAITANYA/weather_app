@@ -24,6 +24,14 @@
 
 }
 
+.icon-small{
+    width: 40px;
+}
+
+.min-max{
+    color: #757575;
+}
+
 .daily-details-grid{
     grid-row-gap: 0;
     grid-column-gap: 15px;
@@ -36,8 +44,8 @@
 }
 
 .daily-details-grid label:first-child{
-    color: #333;
     font-weight: bold;
+    color: #333;
 }
 
 .daily-details-grid-item label:last-child{
@@ -45,22 +53,14 @@
 }
 
 .daily-details-grid-item{
+    font-size: 20px;
     align-items: center;
     display: flex;
-    font-size: 20px;
-    justify-content: space-between;
     margin: 10px 5px;
-}
-
-.icon-small{
-    width: 40px;
+    justify-content: space-between;
 }
 
 
-
-.min-max{
-    color: #757575;
-}
 
 .day{
     color: #212121;
