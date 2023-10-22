@@ -24,16 +24,6 @@
 
 }
 
-.icon-small{
-    width: 40px;
-}
-
-
-
-.min-max{
-    color: #757575;
-}
-
 .daily-details-grid{
     grid-row-gap: 0;
     grid-column-gap: 15px;
@@ -62,7 +52,15 @@
     margin: 10px 5px;
 }
 
+.icon-small{
+    width: 40px;
+}
 
+
+
+.min-max{
+    color: #757575;
+}
 
 .day{
     color: #212121;
