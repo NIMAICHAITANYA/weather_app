@@ -15,8 +15,8 @@
 }
 
 .weather .top .city{
+    ont-size: 18px;
     font-weight: 600;
-    font-size: 18px;
     line-height: 1;
     margin: 0;
     letter-spacing: 1px;
@@ -54,13 +54,13 @@
 
 .deatils .parameter-label{
     text-align: left;
-    font-weight: 400;
     font-size: 12px;
+    font-weight: 400;
 }
 
 .details .parameter-value{
     text-align: right;
-    font-weight: 12px
+    font-weight: 12px;
 }
 
 @media (width < 400px){
