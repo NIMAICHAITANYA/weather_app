@@ -10,8 +10,8 @@
 
 .weather .top, .bottom{
     display: flex;
-    justify-content: space-between;
     align-items: center;
+    justify-content: space-between;
 }
 
 .weather .top .city{
