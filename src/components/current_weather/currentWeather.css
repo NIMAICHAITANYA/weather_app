@@ -52,17 +52,16 @@
     justify-content: space-between; 
 }
 
-.deatils .parameter-label{
-    text-align: left;
-    font-size: 12px;
-    font-weight: 400;
-}
-
 .details .parameter-value{
     text-align: right;
     font-weight: 12px;
 }
 
+.deatils .parameter-label{
+    text-align: left;
+    font-size: 12px;
+    font-weight: 400;
+}
 
 @media (width < 400px){
     .weather{
