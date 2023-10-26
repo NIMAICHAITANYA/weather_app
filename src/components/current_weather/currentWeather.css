@@ -10,16 +10,16 @@
 
 .weather .top, .bottom{
     display: flex;
-    justify-content: space-between;
     align-items: center;
+    justify-content: space-between;
 }
 
 .weather .top .city{
-    ont-size: 18px;
+    font-size: 18px;
     font-weight: 600;
     line-height: 1;
-    margin: 0;
     letter-spacing: 1px;
+    margin: 0;
 }
 
 .weather .top .weather-description{
@@ -36,9 +36,9 @@
 .weather .bottom .temperature{
     font-weight: 600;
     font-size: 70px;
-    width: auto;
     letter-spacing: -5px;
     margin: 10px 0;
+    width: auto;
 }
 
 .weather .bottom .details{
@@ -52,15 +52,15 @@
     justify-content: space-between; 
 }
 
+.details .parameter-value{
+    text-align: right;
+    font-weight: 12px;
+}
+
 .deatils .parameter-label{
     text-align: left;
     font-size: 12px;
     font-weight: 400;
-}
-
-.details .parameter-value{
-    text-align: right;
-    font-weight: 12px;
 }
 
 @media (width < 400px){
