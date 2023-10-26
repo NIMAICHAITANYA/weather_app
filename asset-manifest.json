@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weather_app/static/css/main.39bc4bbc.css",
+    "main.js": "/weather_app/static/js/main.c41aee5d.js",
+    "static/js/522.0ee28d92.chunk.js": "/weather_app/static/js/522.0ee28d92.chunk.js",
+    "static/media/white-cloud-blue-sky.jpg": "/weather_app/static/media/white-cloud-blue-sky.08fc4296b21c7e5e8ab9.jpg",
+    "index.html": "/weather_app/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.39bc4bbc.css",
+    "static/js/main.c41aee5d.js"
+  ]
+}
